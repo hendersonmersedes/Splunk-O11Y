@@ -1,6 +1,6 @@
 # Splunk-O11Y
 Study notes for the Splunk Observability Beta Exam March 2023
-<img src="splunko11y.png">
+<img src="splunkO11y.png">
 <h1>Intro to Splunk Observability</h1>
 <h3>Monitoring and Observability</h3>
 <p>
