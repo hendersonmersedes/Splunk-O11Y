@@ -1,5 +1,6 @@
 # Splunk-O11Y
 Study notes for the Splunk Observability Beta Exam March 2023
+<h2>****All information comes directly from the <a href="https://docs.splunk.com/Observability/get-started/welcome.html#nav-Welcome-to-Splunk-Observability-Cloud"> Splunk documentation</a>*****</h2>
 <img src="splunkO11y.png">
 <h1>Intro to Splunk Observability</h1>
 <h3>Monitoring and Observability</h3>
