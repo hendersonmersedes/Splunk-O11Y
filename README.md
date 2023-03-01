@@ -7,7 +7,7 @@ Study notes for the Splunk Observability Beta Exam March 2023
 <p>
 <ul>
 <li><strong>Monitoring</strong> - analyse and understand the data about the health and performance of your system</li>
-<li>Observability - quality of software services, platforms, and products that llow you to understand how systems are behaving. Makes investigating and disagnosing problems easier.</li>
+<li>Observability - quality of software services, platforms, and products that allow you to understand how systems are behaving. Makes investigating and disagnosing problems easier.</li>
 <li><strong>Why Use Observability?</strong> User experience, Improve incident response, KPIs and other business metrics, improve engineer agility</li>
 <li>"Keeping an eye on things"</li>
 <li>Problems are identified based on expected behavior of factors</li>
@@ -26,7 +26,7 @@ Study notes for the Splunk Observability Beta Exam March 2023
 <h3>Challenges</h3>
 <p>
 <ul>
-<li>Tool Sprawl</li>
+<li>Tool Sprawl - Time spent procuring multiple tools</li>
 <li>Missing Data - sampling and non-granular</li>
 <li>Scale - degradation and long delays in cloud environments</li>
 <li>Slow Alerts</li>
