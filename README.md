@@ -93,36 +93,60 @@ Study notes for the Splunk Observability Beta Exam March 2023
 <p>
 <li>Visibility into your UX.</li>
 <li>Run tests in pre-production environments to run performance tests during the software development process, fix any issues with content before they impact real users on your production website</li>
-<li></li>
-<li></li>
 </ul></p>
 
+
+<h3>Splunk On-call</h3>
+<p>
+<ul>
+<li>Used to automate your incident response and reduce MTTR.</li>
+<li>Collaborate with others to troubleshoot issues and enable your team to conduct post-incident reviews to improve processes.</li>
+</ul></p>
+
+
+<h3>Enterprise Features</h3>
+<p>
+  <ul>
+    <li>Mirrored Dashboards - allow you to add the same dashboards to multiple groups or multiple times to the same dashboard group. You can edit a dashboard and any changes made to it are visible in all mirrors. Follow team member changes, creating dashboards for multiple teams, support multiple filters for each team.</li>
+<li>Dashboard group write permissions to add overrides on a mirror.</li>
+<li>Permissions is an Enterprise feature. Restrict who can make changes to the dashboard <strong>BEFORE</strong> you create any mirrors.</li>
+    <li>Filter and dashboard variable options are stored with the mirror in the current group.</li>
+    <li>Delete mirrors by going to the dashboard actions and selection "Remove this Mirror"</li>
+    <li>To delete, edit or move charts, you do need dashboard permissions. To delete a mirror from a group or change and edit from a group, you need group permissions. </li>
+    <li>To edit a mirror or delete - dashboard permissions, to add a dashboard mirror to a group or change the value for a mirrored dashboard - group permissions</li>
+    <li>The default permissions for a user: any user can edit dashboards and dashboard groups or detectors. Read permissions: new dashboards and dashboard groups can be viewed by any user. You can limit who can see your dashboards and groups by specifying read permissions. Write permissions: can be set on dashboards, groups and detectors: by default, everyone can edit dashboard groups, inherit permissions from the dashboard group to which it is saved. Everyone can edit detectors.</li>
+    <li>Built in dashboards cannot be edited. You must do a "save as" and copy in order to edit it.</li>
+    <li>Anyone who has write permissions can: grant write permissions to users and teams, has read permissions for the same item, grant or revoke all permissions for an item. Admins can grant and revoke write permissions for any item.</li>
+    <li>Detector Write Permissions </li>
+    <li>Remove users/Teams by clicking the "X" next to their name.</li>
+    <li>Requesting permissions - if permissions have been set, you will need to request permission from users who have write permissions</li>
+    <li>Restricting Access for teams in "General Settings" check the box "Restrict Access"</li>
+    <li><strong>Administrators</strong>: add and remove users from the org, and grant admin permissions to users. Create/edit teams, Join or leave teams, Add members to an empty team, Elevate members whose access is restricted.</li>
+     <li><strong>Team Manager</strong>: Only available if "restrict access" is enabled. Cannot create or delete teams. Can add members to teams and edit teams, manage team notifications</li>
+     <li><strong>Org Members</strong>: Users without admin privileges. Join and leave teams. Edit team. Link content to teams. Cannot add or manage members.</li>
+    </ul></p>
+    
+ <h3>Getting Data In</h3>
+<p>
+  <ul>
+    <li></li>
+<li></li>
+<li></li>
+    </ul></p>
+    
+<h3></h3>
+<p>
+  <ul>
+    <li></li>
+<li></li>
+<li></li>
+    </ul></p>
+    
 
 <h3></h3>
-<ul>
 <p>
+  <ul>
+    <li></li>
 <li></li>
 <li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul></p>
-
-
-
-<ul>
-<p>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul></p>
-
-
-<ul>
-<p>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul></p>
+    </ul></p>
